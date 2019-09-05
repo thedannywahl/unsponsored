@@ -1,0 +1,3 @@
+
+# edsurge.com
+edsurge.com#?#.headline-plain:-abp-has([class^=sponsor])
