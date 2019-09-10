@@ -7,3 +7,6 @@
 
 ! edsurge.com
 edsurge.com#?#.headline-plain:-abp-has([class^=sponsor])
+
+! ksl.com
+ksl.com#?#.queue:-abp-has(.partner)
