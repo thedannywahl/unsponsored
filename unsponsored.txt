@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Version: 0001
 ! Title: unsponsored
-! Last modified: 1567718126
+! Last modified: 1604506204
 ! Expires: 7 days
 ! Homepage: https://github.com/thedannywahl/unsponsored
 
 ! edsurge.com
-edsurge.com#?#.headline-plain:-abp-has([class^=sponsor])
+edsurge.com#?#.headline-plain:-abp-has([class*="sponsor"])
 
 ! ksl.com
 ksl.com#?#.queue:-abp-has(.partner)
