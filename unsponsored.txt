@@ -10,3 +10,6 @@ edsurge.com#?#.headline-plain:-abp-has([class^=sponsor])
 
 ! ksl.com
 ksl.com#?#.queue:-abp-has(.partner)
+
+! reddit.com
+reddit.com#?#:-abp-has([href*="promoted_trend"])
