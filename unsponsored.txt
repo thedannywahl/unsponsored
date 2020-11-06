@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 0001
 ! Title: unsponsored
-! Last modified: 1604506204
+! Last modified: 1604688277
 ! Expires: 7 days
 ! Homepage: https://github.com/thedannywahl/unsponsored
 
@@ -13,3 +13,6 @@ ksl.com#?#.queue:-abp-has(.partner)
 
 ! reddit.com
 reddit.com#?#:-abp-has([href*="promoted_trend"])
+
+! G/O Media
+avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,theroot.com,thetakeout.com,theonion.com,theinventory.com#?#article[data-commerce-source]:not([data-commerce-source=""]
