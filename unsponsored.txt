@@ -15,4 +15,6 @@ ksl.com#?#.queue:-abp-has(.partner)
 reddit.com#?#:-abp-has([href*="promoted_trend"])
 
 ! G/O Media
-avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,theroot.com,thetakeout.com,theonion.com,theinventory.com#?#article[data-commerce-source]:not([data-commerce-source=""]
+avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,theroot.com,thetakeout.com,theonion.com,theinventory.com#?#article[data-commerce-source]:not([data-commerce-source=""])
+avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,theroot.com,thetakeout.com,theonion.com,theinventory.com###sidebar_wrapper a[href*="kinjadeals.theinventory.com"]
+avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,theroot.com,thetakeout.com,theonion.com,theinventory.com#?#article:-abp-has(a[href*="kinjadeals.theinventory.com"])
