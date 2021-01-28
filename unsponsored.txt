@@ -3,7 +3,7 @@
 ! Title: unsponsored
 ! Last modified: 1611851270
 ! Expires: 7 days
-! Homepage: https://github.com/thedannywahl/unsponsored
+! Homepage: https://iyware.com/unsponsored/
 
 ! edsurge.com
 edsurge.com#?#.headline-plain:-abp-has([class*="sponsor"])
