@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 0001
+! Version: 0002
 ! Title: unsponsored
-! Last modified: 1604689079
+! Last modified: 1611851270
 ! Expires: 7 days
 ! Homepage: https://github.com/thedannywahl/unsponsored
 
