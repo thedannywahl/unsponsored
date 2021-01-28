@@ -18,3 +18,6 @@ reddit.com#?#:-abp-has([href*="promoted_trend"])
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,theroot.com,thetakeout.com,theonion.com,theinventory.com#?#article[data-commerce-source]:not([data-commerce-source=""])
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,theroot.com,thetakeout.com,theonion.com,theinventory.com###sidebar_wrapper a[href*="kinjadeals.theinventory.com"]
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,theroot.com,thetakeout.com,theonion.com,theinventory.com#?#article:-abp-has(a[href*="kinjadeals.theinventory.com"])
+
+! Linkedin
+linkedin.com#?#.feed-shared-update-v2:-abp-has(.feed-shared-actor__sub-description:-abp-contains(Promoted))
