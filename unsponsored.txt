@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 0002
 ! Title: unsponsored
-! Last modified: 1611851270
+! Last modified: 1614721513
 ! Expires: 7 days
 ! Homepage: https://iyware.com/unsponsored/
 
@@ -21,3 +21,7 @@ avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehack
 
 ! Linkedin
 linkedin.com#?#.feed-shared-update-v2:-abp-has(.feed-shared-actor__sub-description:-abp-contains(Promoted))
+
+! Forbes
+forbes.com#?#article:-abp-has(.forbes-finds-disclaimer:-abp-contains(commission))
+##a[href*="forbes.com/sites/forbes-personal-shopper"]
